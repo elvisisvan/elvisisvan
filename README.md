@@ -1,5 +1,5 @@
 <h1 align="center">Elvis Van</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=63DAFF&random=true&width=450&lines=Web+3.0%2C+Blockchain%2C+DeFi%2C+dApps%2C+DEX" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=63DAFF&random=true&width=450&lines=Web+3.0%2C+Blockchain%2C+DeFi%2C+dApps%2C+DEX" alt="Blockchain Intro" />
 
 - 🔭 I’m currently working on **blockchain technologies**
 
