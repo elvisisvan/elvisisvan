@@ -1,5 +1,5 @@
 <h1 align="center">Elvis Van</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Web 3.0%2C+Blockchain%2C+DeFi%2C+dApps%2C+DEX" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=63DAFF&random=true&width=450&lines=Web+3.0%2C+Blockchain%2C+DeFi%2C+dApps%2C+DEX" />
 
 - 🔭 I’m currently working on **blockchain technologies**
 
