@@ -1,7 +1,7 @@
 <h1 align="center">Elvis Van</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=63DAFF&random=true&width=450&lines=Web+3.0%2C+Blockchain%2C+DeFi%2C+dApps%2C+DEX" alt="Blockchain Intro" />
 
-- 🔭 I’m currently working on **blockchain technologies**
+- 🔭 Working on **blockchain technologies**
 
 - 💬 Interested and experienced in **Linux and decentralized finance**
 
@@ -43,10 +43,16 @@
 [Mastodon-url]: https://mastodon.social/@elvisvan
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvisisvan&show_icons=true&locale=en&layout=compact" alt="elvisisvan" /></p>
+
+<!-- ![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api/?username=elvisisvan\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515) -->
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvisisvan&show_icons=true&locale=en&layout=compact" alt="elvisisvan" /></p> -->
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elvisisvan&show_icons=true&locale=en" alt="elvisisvan" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisisvan&" alt="elvisisvan" /></p>
 
+---
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=EEF768&center=true&width=450&height=60&lines=Jokes+Of+The+Day" alt="jokes-of-the-day" /></a>
