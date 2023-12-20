@@ -9,4 +9,4 @@ exec $SHELL -l
 
 pkg update -y
 pkg upgrade -y
-pkg in tsu android-tools nala gh git lazygit
+pkg in tsu android-tools nala lsd gh git lazygit
