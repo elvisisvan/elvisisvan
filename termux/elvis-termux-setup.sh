@@ -7,7 +7,7 @@ ln -sfv /sdcard/src-elvis/elvis-notes/termux/dottermux/termux.properties ~/.term
 
 pkg update -y
 pkg upgrade -y
-pkg in x11-repo android-tools tsu nala lsd gh git lazygit man broot proot proot-distro cpufetch fastfetch debianutils speedtest-go -y
+pkg in x11-repo root-repo android-tools wireless-tools tsu nala lsd gh git lazygit man broot proot proot-distro cpufetch fastfetch debianutils speedtest-go -y
 
 termux-reload-settings
 exec $SHELL -l
