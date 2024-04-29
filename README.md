@@ -19,7 +19,6 @@
 ![microsoft-edge](https://img.shields.io/badge/-edge-000?&style=for-the-badge&logo=microsoftedge)
 ![fedora](https://img.shields.io/badge/-fedora-000?&style=for-the-badge&logo=fedora)
 ![linux](https://img.shields.io/badge/-linux-000?&style=for-the-badge&logo=linux)
-![kali-linux](https://img.shields.io/badge/-kali_linux-000?&style=for-the-badge&logo=kali-linux)
 ![docker](https://img.shields.io/badge/-docker-000?&style=for-the-badge&logo=docker)
 ![npm](https://img.shields.io/badge/-npm-000?&style=for-the-badge&logo=npm)
 ![bun](https://img.shields.io/badge/-bun-000?&style=for-the-badge&logo=bun)
@@ -42,21 +41,21 @@
 [Mastodon]: https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=Mastodon
 [Mastodon-url]: https://mastodon.social/@elvisvan
 
-## Stats
+<!-- ## Stats -->
 
 <!-- ![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api/?username=elvisisvan\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515) -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvisisvan&show_icons=true&locale=en&layout=compact" alt="elvisisvan" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elvisisvan&show_icons=true&locale=en" alt="elvisisvan" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elvisisvan&show_icons=true&locale=en" alt="elvisisvan" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisisvan&" alt="elvisisvan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisisvan&" alt="elvisisvan" /></p> -->
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=EEF768&center=true&width=450&height=60&lines=Jokes+Of+The+Day" alt="jokes-of-the-day" /></a>
-</p>
-<p align="center">
+</p> -->
+<!-- <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="jokes-card" />
-</p>
+</p> -->
